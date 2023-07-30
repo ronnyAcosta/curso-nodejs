@@ -5,6 +5,7 @@ console.log(path.sep);
 
 // Ybur rutas con path.join
 const filePath = path.join('content', 'subfolder', 'test.txt');
+console.log(filePath);
 
 const pass = '/tmp/midu-secret-files/password.txt';
 
